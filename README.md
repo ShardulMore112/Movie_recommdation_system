@@ -6,6 +6,10 @@ Dataset:
 
 Ensure dataset.csv is in the project directory.
 
+PKL File:
+
+Two pkl files named movies_list.pkl and similarity.pkl will generate once you run the code one after another.
+
 Tutorial:
 
 This project was developed with help and guidance from : https://youtu.be/kuC38ZCcbZI?feature=shared.
