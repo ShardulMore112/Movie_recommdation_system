@@ -13,6 +13,11 @@ PKL File:
 
 Two pkl files named movies_list.pkl and similarity.pkl will generate once you run the code one after another.
 
+To View working project:
+
+Run the .ipynb file first using jupyter notebook and depl.py file using terminal.
+commands: streamlit run depl.py
+
 Tutorial:
 
 This project was developed with help and guidance from : https://youtu.be/kuC38ZCcbZI?feature=shared.
