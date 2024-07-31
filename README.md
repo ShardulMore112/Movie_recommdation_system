@@ -2,7 +2,8 @@
 
 This project is a Movie Recommendation System, developed with help and guidance from a tutorial. The goal is to learn the basics of data analysis and building a recommendation system using Python. The deployment part of the project was designed personally by me.
 
-Created in colloaboration with : Sharvil Naikwade
+Created in colloaboration with : SharvilNaikwade
+https://github.com/naikwadesharvil/movie_recommendation_sytem
 
 Dataset:
 
